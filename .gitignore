@@ -1,6 +1,13 @@
+# Windows
 Lib/
 Scripts/
 tcl/
 Include/
 pip-selfcheck.json
 share/
+
+# Ubuntu
+bin/
+lib/
+include/
+.env
