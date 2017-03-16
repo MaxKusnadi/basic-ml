@@ -15,4 +15,4 @@ Important concepts:
 Feel free to contact me at max(dot)kusnadi(at)gmail(dot)com
 
 ***
-Created by [Max K](maxkusnadi.github.io)
+Created by [Max K](http://maxkusnadi.github.io)
